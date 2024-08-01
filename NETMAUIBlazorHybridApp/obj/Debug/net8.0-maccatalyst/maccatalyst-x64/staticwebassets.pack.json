@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\GitHubProject\\NETMAUIBlazorHybridApp\\NETMAUIBlazorHybridApp\\obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\scopedcss\\bundle\\NETMAUIBlazorHybridApp.styles.css",
+      "PackagePath": "staticwebassets\\NETMAUIBlazorHybridApp.styles.css"
+    },
+    {
+      "Id": "G:\\GitHubProject\\NETMAUIBlazorHybridApp\\NETMAUIBlazorHybridApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "G:\\GitHubProject\\NETMAUIBlazorHybridApp\\NETMAUIBlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\GitHubProject\\NETMAUIBlazorHybridApp\\NETMAUIBlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\GitHubProject\\NETMAUIBlazorHybridApp\\NETMAUIBlazorHybridApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "G:\\GitHubProject\\NETMAUIBlazorHybridApp\\NETMAUIBlazorHybridApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.NETMAUIBlazorHybridApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.build.NETMAUIBlazorHybridApp.props",
+      "PackagePath": "build\\NETMAUIBlazorHybridApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildMultiTargeting.NETMAUIBlazorHybridApp.props",
+      "PackagePath": "buildMultiTargeting\\NETMAUIBlazorHybridApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-maccatalyst\\maccatalyst-x64\\staticwebassets\\msbuild.buildTransitive.NETMAUIBlazorHybridApp.props",
+      "PackagePath": "buildTransitive\\NETMAUIBlazorHybridApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
